@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+Pillow
+sentence-transformers
+numpy
+boto3
+requests
