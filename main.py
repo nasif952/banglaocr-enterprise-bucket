@@ -18,8 +18,8 @@ st.markdown("""
 - Upload printed/handwritten Bangla image or text  
 - Extract text with OCR  
 - Retrieval-Augmented QnA chatbot (Bangla & English)  
-- Upload extracted data to AWS S3 (real)  
-- Push invoice data to Oracle REST API (real)
+- Upload extracted data to AWS S3  
+
 """)
 
 # Load embedding model
